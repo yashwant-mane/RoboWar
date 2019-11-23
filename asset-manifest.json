@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RoboWar/static/css/main.a51707d4.chunk.css",
+    "main.js": "/RoboWar/static/js/main.6b4a6504.chunk.js",
+    "main.js.map": "/RoboWar/static/js/main.6b4a6504.chunk.js.map",
+    "runtime-main.js": "/RoboWar/static/js/runtime-main.3e318536.js",
+    "runtime-main.js.map": "/RoboWar/static/js/runtime-main.3e318536.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/RoboWar/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1fcf6901.chunk.js": "/RoboWar/static/js/2.1fcf6901.chunk.js",
+    "static/js/2.1fcf6901.chunk.js.map": "/RoboWar/static/js/2.1fcf6901.chunk.js.map",
+    "index.html": "/RoboWar/index.html",
+    "precache-manifest.8bbd752139990d32abb748b2935a83de.js": "/RoboWar/precache-manifest.8bbd752139990d32abb748b2935a83de.js",
+    "service-worker.js": "/RoboWar/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/RoboWar/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.a51707d4.chunk.css.map": "/RoboWar/static/css/main.a51707d4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e318536.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1fcf6901.chunk.js",
+    "static/css/main.a51707d4.chunk.css",
+    "static/js/main.6b4a6504.chunk.js"
+  ]
+}
